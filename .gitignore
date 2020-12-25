@@ -1,0 +1,7 @@
+.idea
+*.iml
+<<<<<<< HEAD
+.class
+=======
+out
+>>>>>>> release
